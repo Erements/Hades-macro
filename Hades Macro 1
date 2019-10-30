@@ -1,0 +1,31 @@
+//Part 1
+ |Shadow Spread  |           Tower                 |
+ |　       MT 　　　   |  MT West  OT East     |
+ |　R1　     H2         |ーーーーーーーーーーー
+ |H1       X      OT      |      ICE FIRE tether     |
+ |　 M1      M2         |        melee:north        |
+ |            R2                |                                          | 
+ ーーーーーーーーーーーーーーーーーーーーーーー
+|         Meteors                | Universal Manipulation|
+| MT North  OT South |                       R1                      |
+ ーーーーーーーーーーー                       MT                    |
+|           Stack adds          |          M1 H1 X  H2 M2      |
+|    MT      1:M1 R1 H1  |                       OT                     |
+| 1       2   2:M2 R2 H2  |                       R2                      |
+|    OT                                 |ーーーーーーーーーーーーー
+ーーーーーーーーーーー
+//Part 2
+
+ |      Knock Back               |
+ |          M1        M2             |
+ |                                            |
+ | MTH1   Mid     MTH2   |
+ |                                            |
+ |            R1         R2             |
+ ーーーーーーーーーーーー
+ |    Share and puddle    |
+ |                 Boss                  |
+ |  H1MT ↑　 ↑　H2ST  |
+ |     M1　↑　 ↑　 M2     |
+ |    　　    ↑     ↑                |
+ |  　   　R1　　R2              |
